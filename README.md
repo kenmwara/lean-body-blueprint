@@ -9,6 +9,14 @@
 
 ---
 
+## Screenshots
+
+<p>
+  <img src="https://tbot.trade/portfolio/img/lbb.jpg" width="720" alt="The Lean Body Blueprint — landing page: the 3-rule system that gets 9-5 workers lean">
+</p>
+
+*theleanbodyblueprint.com — the landing page: free 5-day challenge above the fold, $97 instant access.*
+
 ## What this is
 
 A complete digital fitness product targeting the audience that traditional fitness content underserves — full-time employees who can't fit a gym + meal-prep lifestyle into their workweek. The product is a 3-rule framework ("eat real food," "20-minute bodyweight," "habits over willpower") delivered as a PDF guide + 5 short videos.
