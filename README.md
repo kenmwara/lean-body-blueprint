@@ -21,7 +21,7 @@
 
 A complete digital fitness product targeting the audience that traditional fitness content underserves — full-time employees who can't fit a gym + meal-prep lifestyle into their workweek. The product is a 3-rule framework ("eat real food," "20-minute bodyweight," "habits over willpower") delivered as a PDF guide + 5 short videos.
 
-Built solo end-to-end: positioning, copy, brand, landing, payment, fulfilment, ad creative.
+Built end-to-end: positioning, copy, brand, landing, payment, fulfilment, ad creative.
 
 ## The offer
 
